@@ -23,19 +23,5 @@ function append(data){
     
 
 }
-// function append(data){
-//     console.log(data)
-//     for(const user of data){
 
-//         console.log(user.email)
-//         const ul = document.getElementById('email')
-//          const li = document.createElement('li')
-//        li.innerText = user.email
-//        ul.appendChild(li)
-
-//     }
-
-    
-
-// }
 
